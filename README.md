@@ -8,7 +8,7 @@ Includes filters like pet-friendly properties and city-specific searches.
 Booking System:
 Book properties by specifying dates, number of nights, and guests.
 Automatic price calculations for bookings.
-# Database Integration:
+# Database Integration
 MySQL backend to manage user accounts, property listings, and booking records.
 Multi-Frame GUI:
 Intuitive and user-friendly interface built with Java Swing.
